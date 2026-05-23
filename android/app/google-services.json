@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639931148516",
+    "project_id": "to-do-list-cdcf5",
+    "storage_bucket": "to-do-list-cdcf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639931148516:android:ab5d88c09e9815a5f524f1",
+        "android_client_info": {
+          "package_name": "com.example.gira_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXcsfTg4G5JOCj7iWsSiyoB61I591rHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
